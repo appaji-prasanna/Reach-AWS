@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run code on aws beanstalk using AWS Code Pipeline
+In the project directory, you can run code on aws beanstalk using AWS Code Pipeline added new stage
 
 ### `npm start`
 
